@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-<img src="./mern_tvu7kz.webp" alt="Jayaprakash | Full Stack MERN Developer" width="600px" />
+<img src="./mern_tvu7kz.webp" alt="Jayaprakash | Full Stack MERN Developer" width="400px" />
 </p>
 
 <!-- Typing SVG -->
