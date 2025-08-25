@@ -6,23 +6,20 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/jayaprakash-sv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+Specialist+%7C+UI%2FUX+Enthusiast;Clean+Code+Advocate+%7C+Problem+Solver;Open+To+Collaborate+%26+Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Developer;React+Developer+%7C+UI%2FUX+Enthusiast;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Clean+CodeR+%7C+Problem+Solver;Open+To+Collaborate+%26+Learn" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/jayaprakash-sv" target="_blank">
+  <a href="https://www.linkedin.com/in/jayaprakash-palanivel-402429212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jayaprakash.sv.dev@gmail.com">
+  <a href="mailto:jayaprakashrts@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://jayaprakash-sv.vercel.app" target="_blank">
+  <a href="https://jp-portfoilo-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/jayaprakash_sv/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -89,4 +86,4 @@ A comprehensive system for tracking and managing attendance with advanced report
 </p>
 
 ---
-⭐ From [Jayaprakash](https://github.com/jayaprakash-sv)
+⭐ From [Jayaprakash](https://github.com/jayaprakashSs)
