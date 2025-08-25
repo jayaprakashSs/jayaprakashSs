@@ -79,12 +79,6 @@
 
 ---
 
-## 📈 Development Principles
-
-* **TDD** • **Agile** • **Documentation‑First** • **Code Reviews** • **CI/CD**
-
----
-
 ## 🤝 Let’s Collaborate
 
 * 💬 Ask me about **React**, **MERN**, **Dashboards**, **Design Systems**
