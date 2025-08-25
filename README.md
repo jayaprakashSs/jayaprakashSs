@@ -1,13 +1,3 @@
-<!--
-TIP: Replace the banner src with a real, publicly hosted URL or keep ./FMERN.jpg only if the image exists in your repo root.
--->
-
-<!-- Banner -->
-
-<p align="center">
-  <img src="./FMERN.jpg" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
-</p>
-
 <!-- Typing SVG -->
 
 <p align="center">
