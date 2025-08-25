@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://new-image-url-goes-here.png" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
+<img src="https://i.ibb.co/5jv2sL7/mern-banner.png" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
 </p>
 
 <!-- Typing SVG -->
@@ -47,7 +47,7 @@
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,graphql,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,graphql,firebase,redis" />
 </p>
 
 ### DevOps & Tools
