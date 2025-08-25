@@ -1,16 +1,23 @@
-<!-- Header Banner -->
+<!--
+TIP: Replace the banner src with a real, publicly hosted URL or keep ./FMERN.jpg only if the image exists in your repo root.
+-->
+
+<!-- Banner -->
+
 <p align="center">
-<img src="./FMERN.jpg" alt="Jayaprakash | Full Stack MERN Developer" width="400px" />
+  <img src="./FMERN.jpg" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
 </p>
 
 <!-- Typing SVG -->
+
 <p align="center">
   <a href="https://github.com/jayaprakash-sv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Developer;React+Developer+%7C+UI%2FUX+Enthusiast;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Clean+CodeR+%7C+Problem+Solver;Open+To+Collaborate+%26+Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MERN+Developer;React+Developer+%7C+UI%2FUX+Enthusiast;Frontend+Developer+%7C+Performance+Focused;Clean+Coder+%7C+Problem+Solver;Open+to+Collaboration+%26+Learning" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Links -->
+<!-- Socials -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaprakash-palanivel-402429212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,65 +32,93 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-🔹 Passionate **MERN Stack Developer** with expertise in building **scalable web applications** and **interactive dashboards**  
-🔹 Strong focus on **UI/UX design principles** with an eye for creating **intuitive user experiences**  
-🔹 Advocate for **clean code architecture**, **performance optimization**, and **maintainable solutions**  
-🔹 Currently exploring **AWS Cloud Services**, **Microservices Architecture**, and **AI/ML integrations**  
-🔹 Believe in *"Code is poetry when it's simple, efficient, and elegant"*  
+* Passionate **MERN Stack Developer** building **scalable web apps** and **interactive dashboards**.
+* Strong focus on **UI/UX** for **intuitive, accessible** experiences.
+* Advocate for **clean architecture**, **performance optimization**, and **maintainability**.
+* Exploring **AWS**, **Microservices**, and **AI/ML integrations**.
+* I believe: *“Code is poetry when it’s simple, efficient, and elegant.”*
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### Frontend Development
-<p>
+### Frontend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,javascript,tailwind,materialui,styledcomponents,html,css,sass" />
 </p>
 
-### Backend Development
-<p>
+### Backend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,graphql,firebase,redis" />
 </p>
 
 ### DevOps & Tools
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,postman,webpack,vite,figma,vscode,linux" />
 </p>
 
 ---
 
-## 🎨 UI/UX Design Philosophy  
+## 🎨 UI/UX Principles
 
-- 🔥 **User-Centered Design**: Creating interfaces that prioritize user needs and intuitive interactions  
-- 🎯 **Modern Aesthetics**: Clean, minimalist designs with thoughtful typography and spacing  
-- 📱 **Responsive Excellence**: Flawless experiences across devices  
-- 🧩 **Component-Based Architecture**: Reusable UI components for consistency  
-- 🚀 **Performance Focus**: Fast load times & smooth animations  
-- 🎨 **Design Tools**: Proficient in Figma, Adobe XD, prototyping tools  
-
----
-
-## 🏆 Notable Projects  
-
-### 🔹 IFACE / AEAMS - Attendance & Management System  
-A comprehensive system for tracking and managing attendance with advanced reporting.  
+* **User‑Centered Design** → prioritize clarity and intuitive flows.
+* **Modern Aesthetics** → clean layout, thoughtful typography & spacing.
+* **Responsive by Default** → consistent experience across devices.
+* **Component‑Driven** → reusable, consistent UI building blocks.
+* **Performance‑Focused** → quick starts, smooth interactions.
+* **Design Tools** → Figma, Adobe XD, interactive prototyping.
 
 ---
 
-## 📈 Development Principles  
+## 🏆 Notable Project
 
-- ✅ **Test-Driven Development**  
-- 🔄 **Agile Methodology**  
-- 📚 **Documentation First**  
-- 🔍 **Code Reviews**  
-- 🚀 **CI/CD Pipelines**  
+### IFACE / AEAMS – Attendance & Management System
 
+* Role‑based access, geo‑fencing, face recognition (planned), advanced reports.
+* Tech: React, Node/Express, MongoDB, JWT, DataTables, jsPDF, Charts.
+* Outputs: zone‑wise reports, PDF/Excel exports, analytics dashboard.
+
+> More case studies and demos on my [Portfolio](https://jp-portfoilo-dev.vercel.app/).
+
+---
+
+## 📈 Development Principles
+
+* **TDD** • **Agile** • **Documentation‑First** • **Code Reviews** • **CI/CD**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayaprakash-sv&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayaprakash-sv&theme=transparent" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash-sv&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🤝 Let’s Collaborate
+
+* 💬 Ask me about **React**, **MERN**, **Dashboards**, **Design Systems**
+* 📧 Reach me: **[jayaprakashrts@gmail.com](mailto:jayaprakashrts@gmail.com)**
+* 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/jayaprakash-palanivel-402429212/) • [Portfolio](https://jp-portfoilo-dev.vercel.app/)
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayaprakash-sv&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views"/>
 </p>
 
----
-⭐ From [Jayaprakash](https://github.com/jayaprakashSs)
+<p align="center">
+  ⭐ From <a href="https://github.com/jayaprakash-sv">Jayaprakash</a>
+</p>
