@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/9w3tJqz/developer-banner.png" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
+  <img src="https://new-image-url-goes-here.png" alt="Jayaprakash | Full Stack MERN Developer" width="100%" />
 </p>
 
 <!-- Typing SVG -->
@@ -57,33 +57,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayaprakash-sv&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jayaprakash-sv&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-sv&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages"/>
-  
-</div>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash-sv&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF" alt="GitHub Activity Graph" width="100%"/>
-</p>
-
----
-
 ## 🎨 UI/UX Design Philosophy  
 
 - 🔥 **User-Centered Design**: Creating interfaces that prioritize user needs and intuitive interactions  
@@ -100,15 +73,6 @@
 ### 🔹 IFACE / AEAMS - Attendance & Management System  
 A comprehensive system for tracking and managing attendance with advanced reporting.  
 
-### 🔹 E-Commerce Dashboard  
-Admin dashboard with real-time analytics, inventory management, and order processing.  
-
-### 🔹 Task Management Application  
-A collaborative task management tool with drag-and-drop functionality & real-time updates.  
-
-### 🔹 Healthcare Portal  
-Patient management system with appointment scheduling and medical records tracking.  
-
 ---
 
 ## 📈 Development Principles  
@@ -119,16 +83,6 @@ Patient management system with appointment scheduling and medical records tracki
 - 🔍 **Code Reviews**  
 - 🚀 **CI/CD Pipelines**  
 
----
-
-## 🌟 Achievements  
-
-- 🏅 **Hackathon Winner** - Built a real-time collaborative tool in 48 hours  
-- 📊 **Performance Optimization** - Improved load time by 65%  
-- 👥 **Open Source Contributor** - React & Node.js communities  
-- 🎓 **Mentorship** - Guided junior developers in MERN stack  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayaprakash-sv&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views"/>
