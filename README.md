@@ -1,4 +1,3 @@
-<!- Typing SVG -->
 <h1 align="center">Hi, I'm <span style="color:#00D4FF;">Jayaprakash</span></h1>
 <p align="center">A Passionate <strong>MERN Stack Developer</strong> | <strong>React Developer</strong> | <strong>UI/UX Enthusiast</strong></p>
 
