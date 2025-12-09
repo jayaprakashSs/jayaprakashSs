@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm <span style="color:#00D4FF;">Jayaprakash</span></h1>
-<p align="center">A Passionate <strong>Frontend React.js Developer</strong> | <strong>UI/UX Engineer</strong> | <strong>Interactive Web Experiences</strong></p>
+<p align="center">A Passionate <strong>Frontend React Developer</strong> | <strong>UI/UX Enthusiast</strong></p>
 
 <p align="center">
   <a href="https://github.com/jayaprakash-sv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+React.js+Developer;UI/UX+Focused+Developer;Performance+Oriented+Frontend+Engineer;Clean+Code+Advocate;Open+to+Collaboration+%26+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+React+Developer;Building+Interactive+UIs;UI%2FUX+%26+Design+Systems;Performance+Optimizer;Clean+Code+%7C+Modern+JavaScript" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaprakash-palanivel-402429212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,73 +22,58 @@
 
 ## 👨‍💻 About Me
 
-- Creative **Frontend Developer** crafting elegant and responsive user interfaces.
-- Specialized in **React.js**, modern component patterns, and optimized UI frameworks.
-- Passionate about **UI/UX**, animation, accessibility, and seamless user experiences.
-- Strong understanding of **state management**, **design systems**, and **frontend architecture**.
-- Currently exploring **Next.js**, **Web Performance**, and **Frontend DevOps workflows**.
-- I believe: _“Great UI happens when design meets clean, well-structured code.”_
+* Specialized **Frontend Developer** crafting **pixel-perfect, responsive web applications** using **React.js**.
+* Expertise in **State Management** (Redux, Context API) and modern **React Hooks**.
+* Strong focus on **UI/UX** principles to create intuitive, accessible, and engaging user experiences.
+* Experienced in translating **Figma/Adobe XD** designs into clean, reusable code.
+* I believe: *"Great UI is invisible; it just works seamlessly."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Expertise
+### ⚛️ Frontend Ecosystem (Core)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,redux,tailwind,materialui,styledcomponents,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,materialui,styledcomponents,html,css,sass,vite,figma" />
 </p>
 
-### ⚙️ Backend Familiarity (MERN Friendly)
+### 🔙 Backend Integration & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,graphql" />
-</p>
-
-### 🔧 Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,nginx,webpack,vite,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,nodejs,firebase,graphql,vscode,linux,docker" />
 </p>
 
 ---
 
-## 🎨 UI/UX Principles I Follow
+## 🎨 UI/UX Philosophy
 
-- **User-First Experience** → meaningful and intuitive interactions.  
-- **Modern Visuals** → spacing, contrast, smooth animations, micro-interactions.  
-- **Responsive & Scalable** → consistent layouts across all devices.  
-- **Component-Driven Architecture** → reusable UI building blocks.  
-- **Lightning-Fast Rendering** → optimized React patterns & performance tuning.  
-- **Prototyping Tools** → Figma, Adobe XD for design visualization.  
-
----
-
-## 🏆 Featured Project
-
-### 🔹 IFACE – Smart Attendance & Management System
-
-A complete attendance dashboard with real-time insights and modern UI.
-
-**Highlights:**
-- Role-based dashboards  
-- Advanced table filtering & search  
-- PDF/Excel exports  
-- Analytics widgets  
-- Smooth UI with React.js + custom components  
-
-**Tech Used:** React, Redux, Vite, DataTables, jsPDF, Tailwind, Node API support.
-
-> More detailed case studies on my **[Portfolio](https://jp-portfoilo-dev.vercel.app/)**.
+* **Component-Driven Development** → Building scalable, atomic design systems.
+* **Performance First** → Optimizing render cycles, lazy loading, and bundle sizes.
+* **Responsive Design** → Fluid layouts for Mobile, Tablet, and Desktop.
+* **Accessibility (a11y)** → Ensuring applications are usable by everyone.
+* **Modern Aesthetics** → Clean typography, consistent spacing, and smooth animations.
 
 ---
 
-## 🤝 Let’s Connect & Build Something Great
+## 🏆 Notable Project
 
-- 💬 Ask me about **React.js**, **UI/UX**, **Frontend Architecture**, **Reusable Components**
-- 📧 Email: **jayaprakashrts@gmail.com**
-- 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/jayaprakash-palanivel-402429212/)
-- 🌐 Portfolio: [View Projects](https://jp-portfoilo-dev.vercel.app/)
+### IFACE – Attendance Dashboard
+
+* **Frontend Focus:** Developed a dynamic **React Dashboard** with real-time data visualization.
+* **Key Features:** Interactive charts, complex DataTables with filtering, and PDF/Excel export capabilities.
+* **Tech:** React, Material UI, Chart.js, Axios (API Integration).
+* **Outcome:** Streamlined HR operations with a highly responsive and intuitive interface.
+
+> More case studies and demos on my [Portfolio](https://jp-portfoilo-dev.vercel.app/).
+
+---
+
+## 🤝 Let’s Collaborate
+
+* 💬 Ask me about **React Architecture**, **Custom Hooks**, **UI Libraries**, **Frontend Performance**
+* 📧 Reach me: **[jayaprakashrts@gmail.com](mailto:jayaprakashrts@gmail.com)**
+* 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/jayaprakash-palanivel-402429212/) • [Portfolio](https://jp-portfoilo-dev.vercel.app/)
 
 ---
 
@@ -99,5 +82,5 @@ A complete attendance dashboard with real-time insights and modern UI.
 </p>
 
 <p align="center">
-  ⭐ From <a href="https://github.com/jayaprakash-sv">Jayaprakash</a>
+  ⭐ From <a href="https://github.com/jayaprakashSs">Jayaprakash</a>
 </p>
