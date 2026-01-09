@@ -1,84 +1,65 @@
-<h1 align="center">Hi, I'm <span style="color:#00D4FF;">Jayaprakash</span></h1>
-<p align="center">A Passionate <strong>Frontend React Developer</strong> | <strong>UI/UX Enthusiast</strong></p>
+<div align="center">
+  <h1 align="center">Hi, I'm <span style="color:#00D4FF;">Jayaprakash</span> 👋</h1>
+  <h3 align="center">Frontend React Developer | UI/UX Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/jayaprakashSs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+React+Developer;Building+Interactive+UIs;UI%2FUX+%26+Design+Systems;Performance+Optimizer;Clean+Code+%7C+Modern+JavaScript" alt="Typing SVG" />
+  <a href="https://github.com/jayaprakash-sv">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Interactive+React+UIs;Translating+Figma+to+Pixel-Perfect+Code;Performance+Optimizer+%26+Clean+Coder;Passionate+about+UI%2FUX+Design" alt="Typing SVG" />
   </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayaprakashrts/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jayaprakashrts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://jp-portfoilo-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jayaprakash-palanivel-402429212/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:jayaprakashrts@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://jp-portfoilo-dev.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-* Specialized **Frontend Developer** crafting **pixel-perfect, responsive web applications** using **React.js**.
-* Strong focus on **UI/UX** principles to create intuitive, accessible, and engaging user experiences.
-* Expertise in **State Management** (Redux, Context API) and modern **React Hooks**.
-* Experienced in translating **Figma/Adobe XD** designs into clean, reusable code.
-* I believe: *"Great UI is invisible; it just works seamlessly."*
+I specialize in crafting **high-performance, responsive web applications** using the modern React ecosystem. My passion lies in bridging the gap between design and technology—translating **Figma** concepts into seamless, interactive user experiences.
+
+* 🔭 **Focus:** React.js, State Management (Redux/Context), and Design Systems.
+* 🎨 **Philosophy:** "Great UI is invisible; it just works."
+* ⚡ **Core Values:** Clean Code, Accessibility (a11y), and Performance.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Frontend Arsenal
 
-### ⚛️ Frontend Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,materialui,styledcomponents,html,css,sass,vite,figma,git&perline=7" alt="Tech Stack" />
+</div>
+
+---
+
+### 🏆 Featured Project
+
+#### 📊 IFACE – Attendance Dashboard (Government Project)
+A dynamic, role-based dashboard for large-scale workforce monitoring.
+* **Key Features:** Real-time data visualization, geofencing integration, and interactive filtering.
+* **The Tech:** React, Material UI, Chart.js, Axios.
+* **Impact:** Streamlined HR operations with a highly responsive interface.
+
+> *View more case studies on my [Portfolio](https://jp-portfoilo-dev.vercel.app/).*
+
+---
+
+### 🤝 Let's Connect
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,materialui,styledcomponents,html,css,sass,vite,figma" />
+I am open to discussions regarding <b>React Architecture</b>, <b>UI Libraries</b>, and <b>Frontend Performance</b>.
 </p>
 
-### ⚙️ Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
-</p>
-
----
-
-## 🎨 UI/UX Philosophy
-
-* **Component-Driven Development** → Building scalable, atomic design systems.
-* **Performance First** → Optimizing render cycles, lazy loading, and bundle sizes.
-* **Responsive Design** → Fluid layouts for Mobile, Tablet, and Desktop.
-* **Accessibility (a11y)** → Ensuring applications are usable by everyone.
-* **Modern Aesthetics** → Clean typography, consistent spacing, and smooth animations.
-
----
-
-## 🏆 Notable Project
-
-### IFACE – Attendance Dashboard
-
-* **Frontend Focus:** Developed a dynamic **React Dashboard** with real-time data visualization.
-* **Key Features:** Interactive charts, complex DataTables with filtering, and PDF/Excel export capabilities.
-* **Tech:** React, Material UI, Chart.js, Axios.
-* **Outcome:** Streamlined HR operations with a highly responsive and intuitive interface.
-
-> More case studies and demos on my [Portfolio](https://jp-portfoilo-dev.vercel.app/).
-
----
-
-## 🤝 Let’s Collaborate
-
-* 💬 Ask me about **React Architecture**, **Custom Hooks**, **UI Libraries**, **Frontend Performance**
-* 📧 Reach me: **[jayaprakashrts@gmail.com](mailto:jayaprakashrts@gmail.com)**
-* 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/jayaprakashrts/) • [Portfolio](https://jp-portfoilo-dev.vercel.app/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayaprakashSs&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  ⭐ From <a href="https://github.com/jayaprakashSs">Jayaprakash</a>
-</p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jayaprakash-sv&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile views"/>
+  </p>
+  <p>⭐ Starred by <a href="https://github.com/jayaprakash-sv">Jayaprakash</a></p>
+</div>
