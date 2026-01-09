@@ -27,29 +27,66 @@
 ## 👨‍💻 About Me
 
 - Frontend Developer specialized in **React.js** and modern UI development  
-- Passionate about **clean design**, **performance**, and **user experience**  
-- Strong in **component-driven architecture** and reusable UI systems  
-- Experienced in converting **Figma designs** into production-ready interfaces  
+- Strong focus on **UI/UX**, accessibility, and performance  
+- Experienced in building **scalable component-based architectures**  
+- Skilled in converting **Figma designs** into pixel-perfect interfaces  
 
-> *“Good UI doesn’t shout — it works.”*
+> *“Great UI feels invisible — it just works.”*
 
 ---
 
-## ⚛️ Frontend Tech Stack
+## ⚛️ Frontend Tech Skills (Basic → Advanced)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,redux,tailwind,materialui,styledcomponents,html,css,sass,vite,figma" />
+### 🟢 Core Web (Basics)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+---
+
+### 🔵 Styling & UI (Intermediate)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" />
+</p>
+
+---
+
+### 🟣 Frameworks & State (Advanced)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
 
 ## 🎨 UI / UX Principles
 
-- **Component-Driven Development**
-- **Mobile-First & Responsive Design**
-- **Performance Optimization**
-- **Accessibility (a11y)**
-- **Clean Layouts & Smooth Interactions**
+- Component-Driven Development  
+- Mobile-First & Responsive Design  
+- Performance Optimization  
+- Accessibility (a11y)  
+- Clean layouts & smooth interactions  
 
 ---
 
@@ -58,10 +95,10 @@
 ### IFACE – Attendance Dashboard
 
 - Built a **responsive React dashboard** with complex data tables  
-- Implemented **filters, exports (PDF/Excel)**, and interactive UI elements  
-- Focused on **usability, performance, and clean UI structure**
+- Implemented **filters and exports (PDF / Excel)**  
+- Delivered a **clean, fast, and user-friendly UI**
 
-**Tech:** React, Material UI, Chart.js  
+**Tech Used:** React, Material UI, Chart.js  
 
 👉 More projects on my **[Portfolio](https://jp-portfoilo-dev.vercel.app/)**
 
@@ -69,8 +106,8 @@
 
 ## 🤝 Let’s Connect
 
-- 💬 Ask me about **React**, **UI Architecture**, **Performance**, **Design Systems**
-- 📧 Email: **jayaprakashrts@gmail.com**
+- 💬 Ask me about **React**, **UI Architecture**, **Custom Hooks**, **Frontend Performance**  
+- 📧 Email: **jayaprakashrts@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jayaprakash-palanivel-402429212/) • [Portfolio](https://jp-portfoilo-dev.vercel.app/)
 
 ---
