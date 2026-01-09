@@ -37,8 +37,6 @@
 
 ## ⚛️ Frontend Tech Skills (Basic → Advanced)
 
-## ⚛️ Frontend Tech Skills (Basic → Advanced)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,sass,materialui,styledcomponents,react,nextjs,redux,typescript,vite,figma,git,github" />
 </p>
