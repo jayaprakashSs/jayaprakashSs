@@ -37,48 +37,11 @@
 
 ## ⚛️ Frontend Tech Skills (Basic → Advanced)
 
-### 🟢 Core Web (Basics)
+## ⚛️ Frontend Tech Skills (Basic → Advanced)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,sass,materialui,styledcomponents,react,nextjs,redux,typescript,vite,figma,git,github" />
 </p>
-
----
-
-### 🔵 Styling & UI (Intermediate)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=materialui" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" />
-</p>
-
----
-
-### 🟣 Frameworks & State (Advanced)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-</p>
-
----
-
-### ⚙️ Tools & Workflow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
----
 
 ## 🎨 UI / UX Principles
 
