@@ -3,7 +3,6 @@
 <p align="center">
   <strong>Frontend React Developer</strong> • <strong>UI/UX Enthusiast</strong>
 </p>
-
 <p align="center">
   <a href="https://github.com/jayaprakash-sv">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+React+Developer;Building+Clean+%26+Scalable+UIs;UI%2FUX+Focused+Development;Performance+Optimized+Apps;Modern+JavaScript+%7C+Clean+Code" alt="Typing SVG" />
